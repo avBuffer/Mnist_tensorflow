@@ -25,7 +25,9 @@ python mnist_main.py
 ## Wechat&QQ group 
 * I setup VoAI Wechat group, which discusses AI/DL/ML/NLP.
 * VoAI means Voice of AI, Vision of AI, Visualization of AI etc.
-* You can joint VoAI Wechat group by scanning ![QR-code](./imgs/VoAI.jpg) in path ./imgs/VoAI.jpg.
+* You can joint VoAI Wechat group by scanning QR-code in path ./imgs/VoAI.jpg.
+![QR-code](./imgs/VoAI.jpg)
+
 * Also you can joint QQ group ID: 183669028
 
 Any comments or issues are also welcomed.Thanks!
