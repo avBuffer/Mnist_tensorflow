@@ -1,7 +1,11 @@
+"""
+Author: Jay Meng
+E-mail: jalymo@126.com
+Wechat：345238818
+"""
+
 # Introductory CNN Model: MNIST Digits
-#---------------------------------------
-#
-# In this example, we will download the MNIST handwritten
+# In this example, we will load the MNIST handwritten
 # digits and create a simple CNN network to predict the
 # digit category (0-9)
 

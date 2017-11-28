@@ -1,3 +1,9 @@
+"""
+Author: Jay Meng
+E-mail: jalymo@126.com
+Wechat：345238818
+"""
+
 import os
 import scipy
 import numpy as np

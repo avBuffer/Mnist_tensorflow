@@ -1,3 +1,9 @@
+"""
+Author: Jay Meng
+E-mail: jalymo@126.com
+Wechat：345238818
+"""
+
 import tensorflow as tf
 
 flags = tf.app.flags

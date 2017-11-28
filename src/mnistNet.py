@@ -1,7 +1,7 @@
 """
-License: Apache-2.0
-Author: Huadong Liao
-E-mail: naturomics.liao@gmail.com
+Author: Jay Meng
+E-mail: jalymo@126.com
+Wechat：345238818
 """
 
 import tensorflow as tf
