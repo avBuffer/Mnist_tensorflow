@@ -1,3 +1,4 @@
+# coding: utf-8
 """
 Author: Jay Meng
 E-mail: jalymo@126.com

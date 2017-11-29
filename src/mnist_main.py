@@ -1,3 +1,4 @@
+# coding: utf-8
 """
 Author: Jay Meng
 E-mail: jalymo@126.com
@@ -105,7 +106,7 @@ def main(_):
     
                     acc_and_loss = [epoch, (step+1), 100*temp_train_loss, 100*temp_train_acc, 100*temp_test_acc, costTime]
                     acc_and_loss = [np.round(x,2) for x in acc_and_loss]
-                    print('Epoch # {}. Step # {}. Train Loss: {:.2f}%. Train Acc (Test Acc): {:.2f}% ({:.2f}%). Cost Time: {}ms'.format(*acc_and_loss)) 
+                    print('Epoch # {}. Step # {}. Train Loss: {:.2f}%. Train Acc (Test Acc): {:.2f}% ({:.2f}%). Cost Time: {:.2f}ms'.format(*acc_and_loss))
         
             if epoch % cfg.save_freq == 0:
                 saver.save(sess, cfg.model_dir + '/model_epoch_%04d_step_%02d' % (epoch, step)) 

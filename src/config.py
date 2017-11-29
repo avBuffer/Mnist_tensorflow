@@ -1,3 +1,4 @@
+# coding: utf-8
 """
 Author: Jay Meng
 E-mail: jalymo@126.com
@@ -13,7 +14,7 @@ flags = tf.app.flags
 ############################
 flags.DEFINE_string('data_dir', '../data/mnist', 'path for mnist dataset')
 flags.DEFINE_string('result_dir', '../results', 'path for saving results')
-flags.DEFINE_string('model_dir', '../models', 'path for saving results')
+flags.DEFINE_string('model_dir', '../models', 'path for saving models')
 
 
 ############################
